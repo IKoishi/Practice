@@ -36,5 +36,8 @@
     <ClCompile Include="ChessBoard.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MergeSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

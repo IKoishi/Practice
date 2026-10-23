@@ -143,6 +143,7 @@
     <ClCompile Include="ChessBoard.cpp" />
     <ClCompile Include="Hanoi.cpp" />
     <ClCompile Include="LinkList.cpp" />
+    <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="Struct.cpp" />
     <ClCompile Include="TheFirst.cpp" />
     <ClCompile Include="ZhiShu.cpp" />
